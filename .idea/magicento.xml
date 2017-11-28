@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MagicentoSettings">
+    <option name="pathToMage" value="/vagrant/haircare-australia/app/Mage.php" />
+    <option name="pathToPhp" value="" />
+    <option name="urlToMagento" value="" />
+    <option name="packages" value="" />
+    <option name="themes" value="" />
+    <option name="basicAuthUsername" value="" />
+    <option name="basicAuthPassword" value="" />
+    <option name="pathsToMagentoSerialized" value="/vagrant/haircare-australia" />
+    <option name="modmanProjectChecked" value="true" />
+    <option name="lineMarkerLayoutHandle" value="false" />
+    <option name="customSignatures" value="" />
+    <option name="d" value="rSA3uMJM0waFtt5Ipz0+RziVwZgWXYiQuPWVhof1kgm1C2lJ5K+y7WPJ7TALoGMGlp9po3+ZFYac&#13;&#10;PMbcVNF+MSMLRzgxPoAW5K1U19NU3n0TSzgp1LlvGK+H6p5BvBnI9zEtRwN0Lv0rIm8OxzdkSP0N&#13;&#10;Pd1Zc3R1gBfYUikqzNc=&#13;&#10;" />
+  </component>
+</project>
